@@ -1,0 +1,8 @@
+genres_tuple = ("pop", "rock", "soul", "hard rock", "soft rock", "R&B", "progressive rock", "disco") 
+genres_tuple
+len(genres_tuple)
+genres_tuple[3]
+genres_tuple[3:6]
+genres_tuple.index"hard rock"
+NotOrdered=(-1,4,9,3,4,5,9,3)
+NowOrdered=sorted(NotOrdered)
